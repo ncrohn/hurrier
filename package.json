@@ -1,0 +1,15 @@
+{
+  "name": "hurrier",
+  "version": "0.0.0",
+  "description": "Minecraft log reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Crohn",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.5.2",
+    "request": "~2.27.0"
+  }
+}
